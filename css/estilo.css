@@ -1,0 +1,25 @@
+*{marqin:0;padding:0}
+body{width: 1920px; height: 1080px;}
+#he1{width: 384px; height: 432px;
+    background-color: #7FFF00; float: left;}
+#he2{width: 1536px; height: 432px;
+    background-color: #0000FF; float: right;}
+
+#na1{width: 576px; height: 108px;
+    background-color: #000000; float: left;}
+#na2{width: 768px; height: 108px;
+    background-color: #FF7F50; float: left;}
+#na3{width: 576px; height: 108px;
+    background-color: #9932CC; float: right;}
+
+#ma1{width: 960px; height: 270px;
+    background-color: #FF0000; float: left;}
+#ma2{width: 960px; height: 270px;
+background-color: #00FF00; float: right;}
+
+#fo1{width: 384px; height: 270px;
+    background-color: #00FF7F; float: left;}
+#fo2{width: 1152px; height: 270px;
+    background-color: #800080; float: left;}
+#fo3{width: 384px; height: 270px;
+background-color: #CD853F; float: right;}
